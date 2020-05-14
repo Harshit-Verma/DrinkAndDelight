@@ -1,10 +1,10 @@
-package com.cg.RawMaterial;
+package com.cg.updaterawmaterial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RawMaterialApplicationTests {
+class UpdateRawMaterialApplicationTests {
 
 	@Test
 	void contextLoads() {
